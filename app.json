@@ -1,0 +1,5 @@
+{
+  "name": "Flask-Heroku-Example",
+  "repository": "https://github.com/X-Gorn/Flask-Heroku-Example",
+  "stack": "heroku-20"
+}
